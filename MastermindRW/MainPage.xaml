@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MastermindRW.MainPage"
+             BackgroundColor="AliceBlue">
+
+    <!--Might use an bgimage if i find a nice one-->
+    
+    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" HeightRequest="70" Padding="10">
+            <Image Source="icon.png" HorizontalOptions="FillAndExpand" VerticalOptions="Center" Scale="1.4"/>
+            
+        </StackLayout>
+
+        <Frame BackgroundColor="CornflowerBlue" CornerRadius="10" Padding="4" HorizontalOptions="FillAndExpand">
+            <StackLayout x:Name="RoundsContainer" Orientation="Vertical" HorizontalOptions="Center" />
+        </Frame>
+
+        <Frame BackgroundColor="CornflowerBlue" CornerRadius="10" Padding="4" HorizontalOptions="FillAndExpand">
+            <StackLayout x:Name="PegsContainer" Orientation="Horizontal" HorizontalOptions="Center" />
+        </Frame>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" HeightRequest="40">
+            <Button BackgroundColor="CornflowerBlue" Text="Load" CornerRadius="10" WidthRequest="78" Margin="0" Padding="0" Clicked="Load_Clicked" TextColor="Black" />
+            <Button BackgroundColor="CornflowerBlue" Text="Save" CornerRadius="10" WidthRequest="78" Margin="0" Padding="0" Clicked="Save_Clicked" TextColor="Black" />
+            <Button BackgroundColor="CornflowerBlue" Text="Restart" CornerRadius="10" WidthRequest="78" Margin="0" Padding="0" Clicked="Restart_Clicked" TextColor="Black" />
+            <Button BackgroundColor="CornflowerBlue" Text="Info"  CornerRadius="10" WidthRequest="78" Margin="0" Padding="0" Clicked="Tutorial_Clicked" TextColor="Yellow" />
+            
+        </StackLayout>
+
+        <Button Text="Check" BackgroundColor="CornflowerBlue"  CornerRadius="10" Padding="4" FontSize="Large" HorizontalOptions="FillAndExpand" Clicked="Checked_Clicked" x:Name="CheckButton" TextColor="Black"/>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.AssemblyInfo.cs
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.dll
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\ref\MastermindRW.dll
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\MastermindRW.pdb
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\bin\Debug\netstandard2.0\MastermindRW.deps.json
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\bin\Debug\netstandard2.0\MastermindRW.dll
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\bin\Debug\netstandard2.0\ref\MastermindRW.dll
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\bin\Debug\netstandard2.0\MastermindRW.pdb
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW\obj\Debug\netstandard2.0\XamlC.stamp

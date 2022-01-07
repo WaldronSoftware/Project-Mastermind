@@ -1,0 +1,1 @@
+C:\Users\Gigabyte\source\repos\MastermindRW\MastermindRW\MastermindRW.UWP\MastermindRW.UWP.csproj;x86
